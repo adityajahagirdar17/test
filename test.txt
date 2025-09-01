@@ -1,2 +1,3 @@
 this is my first test for git commit 
 Edit 2 
+Clone from Desktop
